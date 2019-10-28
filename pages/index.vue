@@ -99,32 +99,32 @@
         
         h4.text-2xl.font-bold.mb-2 Stack dev presente
         ul.flex.flex-wrap
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 HTML5
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 CSS3
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 JavaScript
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Vue.js
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Vuex
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Nuxt.js
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Pug
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Sass
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Node
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Postgres
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Git
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Linux
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Firebase
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 HTML5
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 CSS3
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 JavaScript
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Vue.js
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Vuex
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Nuxt.js
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Pug
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Sass
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Node
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Postgres
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Git
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Linux
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Firebase
 
         h4.text-2xl.font-bold.mb-2 Stack dev previo
         ul.flex.flex-wrap
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 React
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Redux
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Next
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Stylus
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 jQuery
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Gulp
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Grunt
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 MySql
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 Mongodb
-          li.mr-2.mb-8: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4 HeadlessCMS
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 React
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Redux
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Next
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Stylus
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 jQuery
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Gulp
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Grunt
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 MySql
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Mongodb
+          li.mr-2: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 HeadlessCMS
 </template>
 
 <style>
