@@ -1,5 +1,5 @@
 <template lang="pug">  
-  #cv.py-10.px-4.mx-auto.container(class="lg:py-10 lg:px-12")
+  #cv.py-10.px-2.mx-auto.container(class="lg:py-10 lg:px-12")
     header.flex.flex-col.flex-wrap.font-bold.justify-center.items-center(class="lg:flex-row lg:items-center")
       #foto.order-1(class="lg:w-1/4 lg:order-3 lg:flex lg:justify-end")
         img(src="/avatar.jpg" class="lg:h-56 lg:w-56").h-48.w-48.rounded-full
