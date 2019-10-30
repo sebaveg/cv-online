@@ -1,5 +1,5 @@
 <template lang="pug">  
-  #cv.py-10.px-6.mx-auto.container(class="lg:py-10 lg:px-12")
+  #cv.py-10.px-4.mx-auto.container(class="lg:py-10 lg:px-12")
     header.flex.flex-col.flex-wrap.font-bold.justify-center.items-center(class="lg:flex-row lg:items-center")
       #foto.order-1(class="lg:w-1/4 lg:order-3 lg:flex lg:justify-end")
         img(src="/avatar.jpg" class="lg:h-56 lg:w-56").h-48.w-48.rounded-full
@@ -7,10 +7,10 @@
         h1.text-4xl(class="lg:text-5xl") Sebastian Cardoso
         h2.text-3xl(class="lg:text-4xl").text-blue-500 Web developer
         #contact.flex.flex-col.justify-center.mt-3.w-full(class="lg:flex-row lg:justify-start")
-          h3.mb-3
+          h3.mb-3.flex.justify-center
             img.float-left(src="/icons/email.svg").mr-1
             span hi@sebastiancardoso.com
-          h3.ml-5
+          h3.ml-5.flex.justify-center
             img.float-left(src="/icons/location.svg").mr-1.mb-3
             span La Plata, Buenos Aires
       #social-network.w-full.order-3(class="lg:w-1/4 lg:order-2")
