@@ -15,21 +15,25 @@
             span La Plata, Buenos Aires
       #social-network.w-full.order-3(class="lg:w-1/4 lg:order-2")
         ul.flex.justify-around(class="lg:flex-col lg:justify-end").mt-10
-          li.flex.justify-end.text-right.mb-3.items-center
-            span.hidden(class="lg:block") sebastiancardoso.com
-            img(src="/icons/web.svg" class="lg:h-10 w-10" ).ml-2
-          li.flex.justify-end.text-right.mb-3.items-center
-            span.hidden(class="lg:block") sebastiancardoso92
-            img(src="/icons/linkedin.svg" class="lg:h-10 w-10" ).ml-2
-          li.flex.justify-end.text-right.items-center
-            span.hidden(class="lg:block") sebavaeg
-            img(src="/icons/github.svg" class="lg:h-10 w-10" ).ml-2
+          li
+            a(href="http://sebastiancardoso.com").flex.justify-end.text-right.mb-3.items-center
+              span.hidden(class="lg:block hover:underline hover:text-blue-800") sebastiancardoso.com
+              img(src="/icons/web.svg" class="lg:h-10 w-10" ).ml-2
+          .flex.justify-end.text-right.mb-3.items-center
+            a(href="http://linkedin.com/in/sebastiancardoso92").flex.justify-end.text-right.items-center
+              span.hidden(class="lg:block hover:underline hover:text-blue-800") sebastiancardoso92
+              img(src="/icons/linkedin.svg" class="lg:h-10 w-10" ).ml-2
+          li
+            a(href="http://github.com/sebaveg").flex.justify-end.text-right.items-center
+              span.hidden(class="lg:block hover:underline hover:text-blue-800") sebavaeg
+              img(src="/icons/github.svg" class="lg:h-10 w-10" ).ml-2
         
     main.flex.flex-col.flex-wrap.justify-between.mt-20(class="lg:flex-row lg:justify-between lg:items-stretch")
       div(class="lg:w-1/2").px-4
         h3.border-b.border-gray-600.font-bold.mb-5.text-3xl.text-blue-600.text-center(class="lg:text-4xl") Experiencia
         
-        h4.text-2xl.font-bold.text-center Geounity
+        a(href="http://geounity.org" class="hover:underline hover:text-blue-800")
+          h4.text-2xl.font-bold.text-center Geounity
         #calendar.flex.justify-center
           img(src="/icons/calendar.svg").h-5.w-5.mr-2
           span: i.text-center.text-gray-500 May-19 al Presente
@@ -40,7 +44,8 @@
           li Base de Datos diseñada e implementada con <b>Postgres</b>.
           li Integración del frontend con el backend y la base de datos.
 
-        h4.text-2xl.font-bold.text-center.mt-5 Reversi-Game
+        a(href="https://reversi-game.sebastiancardoso92.now.sh/" class="hover:underline hover:text-blue-800")
+          h4.text-2xl.font-bold.text-center.mt-5 Reversi-Game
         #calendar.flex.justify-center
           img(src="/icons/calendar.svg").h-5.w-5.mr-2
           span: i.text-center.text-gray-500 Jun-19 a Ago-19
@@ -49,7 +54,8 @@
           li Frontend desarrollado con <b>React</b> y Redux.
           li Unit testing con Jest y Enzyme.
 
-        h4.text-2xl.font-bold.text-center.mt-5 Listen Podcast
+        a(href="https://next-podcasts.sebastiancardoso92.now.sh/" class="hover:underline hover:text-blue-800")
+          h4.text-2xl.font-bold.text-center.mt-5 Listen Podcast
         #calendar.flex.justify-center
           img(src="/icons/calendar.svg").h-5.w-5.mr-2
           span: i.text-center.text-gray-500 Ago-19
