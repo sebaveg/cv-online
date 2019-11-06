@@ -32,7 +32,7 @@
       div(class="lg:w-1/2").px-4
         h3.border-b.border-gray-600.font-bold.mb-5.text-3xl.text-blue-600.text-center(class="lg:text-4xl") Experiencia
         
-        a(href="http://geounity.org" class="hover:underline hover:text-blue-800")
+        a(href="http://geounity.herokuapp.com/" class="hover:underline hover:text-blue-800")
           h4.text-2xl.font-bold.text-center Geounity
         #calendar.flex.justify-center
           img(src="/icons/calendar.svg").h-5.w-5.mr-2
