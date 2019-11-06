@@ -105,32 +105,32 @@
         
         h4.text-2xl.font-bold.mb-2 Stack dev presente
         ul
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 HTML5
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 CSS3
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 JavaScript
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Vue.js
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Vuex
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Nuxt.js
+          li.mr-2.mb-4.inline-block: a(href="https://htmlreference.io/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 HTML5
+          li.mr-2.mb-4.inline-block: a(href="https://cssreference.io/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 CSS3
+          li.mr-2.mb-4.inline-block: a(href="https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 JavaScript
+          li.mr-2.mb-4.inline-block: a(href="https://es-vuejs.github.io/vuejs.org/v2/guide/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Vue.js
+          li.mr-2.mb-4.inline-block: a(href="https://vuex.vuejs.org/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Vuex
+          li.mr-2.mb-4.inline-block: a(href="http://nuxtjs.org/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Nuxt.js
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Pug
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Sass
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Node
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Postgres
+          li.mr-2.mb-4.inline-block: a(href="https://nodejs.org/dist/latest-v12.x/docs/api/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Node
+          li.mr-2.mb-4.inline-block: a(href="https://www.postgresql.org/docs/12/index.html").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Postgres
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Git
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Linux
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Firebase
+          li.mr-2.mb-4.inline-block: a(href="https://firebase.google.com/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Firebase
 
         h4.text-2xl.font-bold.mb-2 Stack dev previo
         ul.inline-block
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 React
+          li.mr-2.mb-4.inline-block: a(href="https://es.reactjs.org/tutorial/tutorial.html").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 React
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Redux
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Next
+          li.mr-2.mb-4.inline-block: a(href="https://nextjs.org/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Next
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Stylus
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 jQuery
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Gulp
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Grunt
           li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 MySql
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Mongodb
-          li.mr-2.mb-4.inline-block: a(href="#").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 HeadlessCMS
+          li.mr-2.mb-4.inline-block: a(href="https://www.mongodb.com/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 Mongodb
+          li.mr-2.mb-4.inline-block: a(href="https://strapi.io/").bg-blue-500.font-bold.rounded.text-white.py-2.px-4.mb-6 HeadlessCMS
 </template>
 
 <style>
