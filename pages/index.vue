@@ -41,7 +41,7 @@
         ul.custom-list.mt-2
           li Frontend desarrollado con <b>Vue</b>, Vuex y Nuxt.
           li Backend API desarrollado con <b>Node</b>, Express y Sequelize.
-          li Base de Datos diseñada e implementada con <b>Postgres</b>.
+          li Base de Datos diseñada e implementada con <b>Postgres</b> y <b>MongoDB</b>.
           li Integración del frontend con el backend y la base de datos.
 
         a(href="https://reversi-game.sebastiancardoso92.now.sh/" class="hover:underline hover:text-blue-800")
